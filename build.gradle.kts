@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "edu.kegancherry.orbital"
+group = "com.cherry"
 version = "1.0-SNAPSHOT"
 
 repositories {
